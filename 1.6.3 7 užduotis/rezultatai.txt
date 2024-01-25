@@ -1,0 +1,4 @@
+Krepðininko treniruoèiø taðkø kiekis: 24 18 35 
+Krepðininko vidutiniðkai ámeta taðkø per treniruotæ: 25.6667
+Komandos vidurkis: 45
+Krepðininkui sekasi blogiau nei komandai.

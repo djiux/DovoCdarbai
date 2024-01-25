@@ -1,0 +1,6 @@
+5
+Pienas 10 1.5
+Duona 20 1.2
+Obuoliai 30 0.5
+Vanduo 50 0.8
+Kava 5 3.0
